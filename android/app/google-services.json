@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "582793431937",
+    "project_id": "pharmacy-b28fe",
+    "storage_bucket": "pharmacy-b28fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582793431937:android:c6f6d0ea93dd90bcc7b680",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7yyno7pEehLlnbRtFUkiM5bgj0lD1m0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582793431937:android:51a365cf61a80609c7b680",
+        "android_client_info": {
+          "package_name": "com.example.pharmacy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7yyno7pEehLlnbRtFUkiM5bgj0lD1m0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
